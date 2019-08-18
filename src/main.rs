@@ -3,9 +3,10 @@ mod solutions;
 fn main() {
     println!("\nSTART\n");
 
-    solutions::p1::main();
-    solutions::p2::main();
-    solutions::p3::main();
+    solutions::p001::main();
+    solutions::p002::main();
+    solutions::p003::main();
+    solutions::p004::main();
 
     println!("\nEND\n");
 }
