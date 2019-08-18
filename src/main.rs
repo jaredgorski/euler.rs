@@ -12,6 +12,7 @@ fn main() {
     solutions::p007::main();
     solutions::p008::main();
     solutions::p009::main();
+    solutions::p010::main();
 
     println!("\nEND\n");
 }
