@@ -1,6 +1,4 @@
-  ____________
-  | EULER.RS |
-  ~~~~~~~~~~~~
+# euler.rs [![Build Status](https://travis-ci.com/jaredgorski/euler.rs.svg?branch=master)](https://travis-ci.com/jaredgorski/euler.rs)
 
 Project Euler solutions implemented in Rust.
 
