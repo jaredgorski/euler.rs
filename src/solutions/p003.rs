@@ -34,7 +34,7 @@ fn is_prime(n: u64) -> bool {
     return true;
   }
 
-  if n % 2 == 0 && n % 6 == 1 && n % 6 == 5 { // check for easy rules, like evenness or n modulo 6 being 1 or 5
+  if n % 2 == 0 { 
     return false;
   } else { // check factors up to and including square root of n
     let mut i: u64 = 2;
